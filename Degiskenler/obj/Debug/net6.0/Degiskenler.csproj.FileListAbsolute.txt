@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.exe
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.deps.json
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.runtimeconfig.json
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.dll
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.pdb
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.dll
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\refint\Degiskenler.dll
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.pdb
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\pratikler\Degiskenler\obj\Debug\net6.0\ref\Degiskenler.dll
