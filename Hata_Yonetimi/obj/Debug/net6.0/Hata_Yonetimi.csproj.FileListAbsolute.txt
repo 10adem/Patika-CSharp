@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\bin\Debug\net6.0\Hata_Yonetimi.exe
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\bin\Debug\net6.0\Hata_Yonetimi.deps.json
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\bin\Debug\net6.0\Hata_Yonetimi.runtimeconfig.json
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\bin\Debug\net6.0\Hata_Yonetimi.dll
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\bin\Debug\net6.0\Hata_Yonetimi.pdb
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.dll
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\refint\Hata_Yonetimi.dll
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.pdb
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\Hata_Yonetimi.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\pratikler\Hata_Yonetimi\obj\Debug\net6.0\ref\Hata_Yonetimi.dll
