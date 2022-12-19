@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\bin\Debug\net6.0\Donguler_For_Loop.exe
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\bin\Debug\net6.0\Donguler_For_Loop.deps.json
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\bin\Debug\net6.0\Donguler_For_Loop.runtimeconfig.json
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\bin\Debug\net6.0\Donguler_For_Loop.dll
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\bin\Debug\net6.0\Donguler_For_Loop.pdb
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.dll
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\refint\Donguler_For_Loop.dll
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.pdb
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\Donguler_For_Loop.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\pratikler\Donguler_For_Loop\obj\Debug\net6.0\ref\Donguler_For_Loop.dll
